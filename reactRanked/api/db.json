@@ -1,0 +1,347 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Hüseyin Akbulut",
+      "email": "deneme@gmail.com",
+      "password": "123",
+      "role": "Admin",
+      "adress": "İstanbul"
+    },
+    {
+      "id": 2,
+      "name": "deneme2",
+      "email": "deneme2@gmail.com",
+      "password": "123",
+      "role": "Customer",
+      "adress": "İstanbul"
+    },
+    {
+      "id": 3,
+      "name": "deneme3",
+      "email": "deneme3@gmail.com",
+      "password": "123",
+      "role": "Customer",
+      "adress": "İstanbul"
+    },
+    {
+      "id": 4,
+      "name": "deneme4",
+      "email": "deneme4@gmail.com",
+      "password": "123",
+      "role": "Customer",
+      "adress": "İstanbul"
+    },
+    {
+      "id": 5,
+      "name": "deneme5",
+      "email": "deneme5@gmail.com",
+      "password": "123",
+      "role": "Customer",
+      "adress": "İstanbul"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 2,
+      "productName": "Chai",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "productName": "Chang",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "productName": "Chef Anton's Cajun Seasoning",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 5,
+      "categoryId": 2,
+      "productName": "Chef Anton's Gumbo Mix",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 6,
+      "categoryId": 2,
+      "productName": "Grandma's Boysenberry Spread",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 7,
+      "categoryId": 7,
+      "productName": "Uncle Bob's Organic Dried Pears",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 8,
+      "categoryId": 2,
+      "productName": "Northwoods Cranberry Sauce",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 9,
+      "categoryId": 6,
+      "productName": "Mishi Kobe Niku",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 10,
+      "categoryId": 8,
+      "productName": "Ikura",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 11,
+      "categoryId": 4,
+      "productName": "Queso Cabrales",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 12,
+      "categoryId": 4,
+      "productName": "Queso Manchego La Pastora",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 13,
+      "categoryId": 8,
+      "productName": "Konbu",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 14,
+      "categoryId": 7,
+      "productName": "Tofu",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 15,
+      "categoryId": 2,
+      "productName": "Genen Shouyu",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 16,
+      "categoryId": 3,
+      "productName": "Pavlova",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 17,
+      "categoryId": 6,
+      "productName": "Guiza",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 18,
+      "categoryId": 8,
+      "productName": "Carnarvon Tigers",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 19,
+      "categoryId": 3,
+      "productName": "Teatime Chocolate Biscuits",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 20,
+      "categoryId": 3,
+      "productName": "Sir Rodney's Marmalade",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 21,
+      "categoryId": 3,
+      "productName": "Sir Rodney's Scones",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 22,
+      "categoryId": 5,
+      "productName": "Gustaf's Knäckebröd",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 23,
+      "categoryId": 5,
+      "productName": "Tunnbröd",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 24,
+      "categoryId": 1,
+      "productName": "Guaraná Fantástica",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 25,
+      "categoryId": 3,
+      "productName": "NuNuCa Nuß-Nougat-Creme",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 26,
+      "categoryId": 3,
+      "productName": "Gumbär Gummibärchen",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 27,
+      "categoryId": 3,
+      "productName": "Schoggi Schokolade",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 28,
+      "categoryId": 7,
+      "productName": "Rössle Sauerkraut",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 29,
+      "categoryId": 6,
+      "productName": "Thüringer Rostbratwurst",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 30,
+      "categoryId": 8,
+      "productName": "Nord-Ost Matjeshering",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 31,
+      "categoryId": 4,
+      "productName": "Gorgonzola Telino",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    },
+    {
+      "id": 32,
+      "categoryId": 4,
+      "productName": "Mascarpone Fabioli",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio.",
+      "price": 45
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Beverages"
+    },
+    {
+      "id": 2,
+      "categoryName": "Condiments"
+    },
+    {
+      "id": 3,
+      "categoryName": "Confections"
+    },
+    {
+      "id": 4,
+      "categoryName": "Products"
+    },
+    {
+      "id": 5,
+      "categoryName": "Cereals"
+    },
+    {
+      "id": 6,
+      "categoryName": "Poultry"
+    },
+    {
+      "id": 7,
+      "categoryName": "Produce"
+    },
+    {
+      "id": 8,
+      "categoryName": "Seafood"
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10,
+      "categoryName": "deneme"
+    },
+    {
+      "id": 11,
+      "categoryName": "merhaba"
+    },
+    {
+      "id": 12,
+      "categoryName": "Son deneme"
+    },
+    {
+      "id": 13,
+      "categoryName": "advhadhvda"
+    }
+  ]
+}
