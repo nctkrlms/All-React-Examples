@@ -1,0 +1,216 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "roleId": 8,
+      "userName": "Necati Kırılmış",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 2,
+      "roleId": 2,
+      "userName": "Zeynep Bolat",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 3,
+      "roleId": 3,
+      "userName": "Mustafa Yolcu",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 4,
+      "roleId": 5,
+      "userName": "Büşra Görgü",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 5,
+      "roleId": 4,
+      "userName": "Kerem Güven",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 6,
+      "roleId": 8,
+      "userName": "Beyza Kılıç",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 7,
+      "roleId": 6,
+      "userName": "Gökhan Kurt",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 8,
+      "roleId": 7,
+      "userName": "Osman Sanmış",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 9,
+      "roleId": 7,
+      "userName": "Cem Yılmaz",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 10,
+      "roleId": 3,
+      "userName": "Güllü Bolat",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "roleId": 1,
+      "userName": "Lisa",
+      "image": "images/product.jpg",
+      "desc": "yeni eklenmiş üye",
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "roleId": 5,
+      "userName": "sdfs",
+      "image": "images/product.jpg",
+      "desc": "yeni eklenmiş üye",
+      "id": 15
+    },
+    {
+      "roleId": 2,
+      "userName": "necati",
+      "image": "images/product.jpg",
+      "desc": "yeni eklenmiş üye",
+      "id": 16
+    },
+    {
+      "roleId": 6,
+      "userName": "fatih sülün",
+      "image": "images/product.jpg",
+      "desc": "yeni eklenmiş üye",
+      "id": 17
+    },
+    {
+      "roleId": 8,
+      "userName": "hüseyin toprak",
+      "image": "images/product.jpg",
+      "desc": "yeni eklenmiş üye",
+      "id": 18
+    },
+    {
+      "roleId": 8,
+      "userName": "hüseyin toprak",
+      "image": "images/product.jpg",
+      "desc": "yeni eklenmiş üye",
+      "id": 19
+    },
+    {
+      "roleId": 5,
+      "userName": "sdfsdf",
+      "image": "images/product.jpg",
+      "desc": "yeni eklenmiş üye",
+      "id": 20
+    },
+    {
+      "roleId": 4,
+      "userName": "nctkrlm",
+      "image": "images/product.jpg",
+      "desc": "bu bir test verisidir",
+      "id": 21
+    },
+    {
+      "roleId": 17,
+      "userName": "",
+      "image": "images/product.jpg",
+      "desc": "",
+      "id": 22
+    },
+    {
+      "roleId": 17,
+      "userName": "",
+      "image": "images/product.jpg",
+      "desc": "",
+      "id": 23
+    }
+  ],
+  "userRole": [
+    {
+      "id": 1,
+      "roleName": "Funny"
+    },
+    {
+      "id": 2,
+      "roleName": "Beautiful"
+    },
+    {
+      "id": 3,
+      "roleName": "Kind"
+    },
+    {
+      "id": 4,
+      "roleName": "Sad"
+    },
+    {
+      "id": 5,
+      "roleName": "Jealous"
+    },
+    {
+      "id": 6,
+      "roleName": "Happy"
+    },
+    {
+      "id": 7,
+      "roleName": "Angry"
+    },
+    {
+      "roleName": "gg",
+      "id": 8
+    },
+    {
+      "roleName": "gg",
+      "id": 9
+    },
+    {
+      "roleName": "ddd",
+      "id": 10
+    },
+    {
+      "roleName": "ddd",
+      "id": 11
+    },
+    {
+      "roleName": "ddd",
+      "id": 12
+    },
+    {
+      "roleName": "xss",
+      "id": 13
+    },
+    {
+      "roleName": "xss",
+      "id": 14
+    },
+    {
+      "roleName": "sdsds",
+      "id": 15
+    },
+    {
+      "roleName": "nctkrlms",
+      "id": 16
+    }
+  ]
+}
