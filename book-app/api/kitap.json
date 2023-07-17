@@ -1,0 +1,107 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Dystopian"
+    },
+    {
+      "id": 2,
+      "name": "Romance"
+    },
+    {
+      "id": 3,
+      "name": "Classics"
+    },
+    {
+      "id": 4,
+      "name": "Action"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "1984",
+      "category_id": 1,
+      "author": "George Orwell",
+      "summary":"1984, George Orwell’s bleakly dystopian novel about the dangers of totalitarianism, warns against a world governed by propaganda, surveillance, and censorship. Today, Orwellian phrases like “Big Brother” and “doublespeak” have become common expressions. Read a character analysis of Winston Smith, plot summary, and important quotes.",
+      "src":"https://m.media-amazon.com/images/I/519zR2oIlmL._AC_UF1000,1000_QL80_.jpg"
+      
+    },
+    {
+      "id": 2,
+      "title": "Pride and Prejudice",
+      "category_id": 2,
+      "author": "Jane Austen",
+      "summary":"1984, George Orwell’s bleakly dystopian novel about the dangers of totalitarianism, warns against a world governed by propaganda, surveillance, and censorship. Today, Orwellian phrases like “Big Brother” and “doublespeak” have become common expressions. Read a character analysis of Winston Smith, plot summary, and important quotes.",
+      "src":"https://m.media-amazon.com/images/I/71Q1tPupKjL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "To Kill a Mockingbird",
+      "category_id": 3,
+      "author": "Harper Lee",
+      "summary":"1984, George Orwell’s bleakly dystopian novel about the dangers of totalitarianism, warns against a world governed by propaganda, surveillance, and censorship. Today, Orwellian phrases like “Big Brother” and “doublespeak” have become common expressions. Read a character analysis of Winston Smith, plot summary, and important quotes.",
+      "src":"https://m.media-amazon.com/images/I/71FxgtFKcQL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "The Great Gatsby",
+      "category_id": 4,
+      "author": "F. Scott Fitzgerald",
+      "summary":"1984, George Orwell’s bleakly dystopian novel about the dangers of totalitarianism, warns against a world governed by propaganda, surveillance, and censorship. Today, Orwellian phrases like “Big Brother” and “doublespeak” have become common expressions. Read a character analysis of Winston Smith, plot summary, and important quotes.",
+      "src":"https://m.media-amazon.com/images/I/81eB+7+CkUL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ],
+  "favorites": [
+    {
+      "id": 1,
+      "category_id": 1
+    },
+    {
+      "id": 3,
+      "category_id": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Hüseyin Akbulut",
+      "email": "deneme@gmail.com",
+      "password": "123",
+      "role": "Admin",
+      "adress": "İstanbul"
+    },
+    {
+      "id": 2,
+      "name": "deneme2",
+      "email": "deneme2@gmail.com",
+      "password": "123",
+      "role": "Customer",
+      "adress": "İstanbul"
+    },
+    {
+      "id": 3,
+      "name": "deneme3",
+      "email": "deneme3@gmail.com",
+      "password": "123",
+      "role": "Customer",
+      "adress": "İstanbul"
+    },
+    {
+      "id": 4,
+      "name": "deneme4",
+      "email": "deneme4@gmail.com",
+      "password": "123",
+      "role": "Customer",
+      "adress": "İstanbul"
+    },
+    {
+      "id": 5,
+      "name": "deneme5",
+      "email": "deneme5@gmail.com",
+      "password": "123",
+      "role": "Customer",
+      "adress": "İstanbul"
+    }
+  ]
+}
