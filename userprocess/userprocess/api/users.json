@@ -1,0 +1,108 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "roleId": 8,
+      "userName": "Necati Kırılmış",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 2,
+      "roleId": 2,
+      "userName": "Zeynep Bolat",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 3,
+      "roleId": 3,
+      "userName": "Mustafa Yolcu",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 4,
+      "roleId": 5,
+      "userName": "Büşra Görgü",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 5,
+      "roleId": 4,
+      "userName": "Kerem Güven",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 6,
+      "roleId": 8,
+      "userName": "Beyza Kılıç",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 7,
+      "roleId": 6,
+      "userName": "Gökhan Kurt",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 8,
+      "roleId": 7,
+      "userName": "Osman Sanmış",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 9,
+      "roleId": 7,
+      "userName": "Cem Yılmaz",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    },
+    {
+      "id": 10,
+      "roleId": 3,
+      "userName": "Güllü Bolat",
+      "image": "images/product.jpg",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis odio."
+    }
+  ],
+  "userRole": [
+    {
+      "id": 1,
+      "roleName": "Funny"
+    },
+    {
+      "id": 2,
+      "roleName": "Beautiful"
+    },
+    {
+      "id": 3,
+      "roleName": "Kind"
+    },
+    {
+      "id": 4,
+      "roleName": "Sad"
+    },
+    {
+      "id": 5,
+      "roleName": "Jealous"
+    },
+    {
+      "id": 6,
+      "roleName": "Happy"
+    },
+    {
+      "id": 7,
+      "roleName": "Angry"
+    },
+    {
+      "id": 8,
+      "roleName": "Crazy"
+    }
+  ]
+}
